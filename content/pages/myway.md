@@ -33,4 +33,6 @@ containers (docker)
 
 binary storage (s3, nexus)
 
-http (nginx)
+http (nginx, haproxy)
+
+cloud (openstack, digital ocean)
