@@ -16,13 +16,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (
-)
+# LINKS = (
+# )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("vk", "https://vk.com/wind_blow"),
+    ("github", "https://github.com/w1ndblow",),
+    ("gitlab", "https://gitlab.com/w1ndblow")
 )
 
 DEFAULT_PAGINATION = False
