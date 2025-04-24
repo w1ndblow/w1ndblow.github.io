@@ -19,7 +19,7 @@ I love automate all things and devops approach. I worked with none kubernetes ty
 
 Last time i get more experience with openstack and kubernetess
 
-I like speaking and I try to do my best with share with my expiries and knowledge on conferences, meatups, and study programs (see [publications](public.md))
+I like speaking and I try to do my best with share with my expiries and knowledge on conferences, meatups, and study programs (see [publications](publications.html))
 
 Hobbies:
 
