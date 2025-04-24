@@ -1,4 +1,4 @@
-Titile: Publications
+Title: Publications
 
 Testing infrastructure on python meetup
 
