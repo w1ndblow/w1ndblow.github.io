@@ -6,17 +6,22 @@ PATH = "content"
 
 TIMEZONE = "Europe/Moscow"
 
+PAGE_PATHS = ["pages"]
+
+THEME = "."
+
 DEFAULT_LANG = "en"
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
-PLUGINS = ["i18n_subsites"]
+PLUGINS = ["i18n_subsites", "jinja2content"]
+I18N_GETTEXT_NEWSTYLE = True
 I18N_GETTEXT_LOCALEDIR = "trans/"
-I18N_GETTEXT_DOMAIN = "domain"
+I18N_GETTEXT_DOMAIN = "messages"
 # mapping: language_code -> settings_overrides_dict
 I18N_SUBSITES = {
-    "ru": {
-        "SITENAME": "website Алексея Кузнецова",
-    }
+    "en": {"SITENAME": "Aleksey Kuznetsov's website", "THEME_STATIC_DIR": "../static"},
+    "ru": {"SITENAME": "website Алексея Кузнецова", "THEME_STATIC_DIR": "../static"},
 }
+TEMPLATES_PATHS = ["templates"]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = False
@@ -25,6 +30,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+JINJA2CONTENT_TEMPLATES = ["*.md"]
 # Blogroll
 # LINKS = (
 # )
