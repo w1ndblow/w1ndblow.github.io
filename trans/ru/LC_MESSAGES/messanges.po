@@ -1,0 +1,148 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-10-27 19:20+0300\n"
+"PO-Revision-Date: 2025-10-27 19:30+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: content/pages/index.md:1
+msgid "About me"
+msgstr "Обо мне"
+
+#: content/pages/index.md:3
+msgid ""
+"I love my work because web and cloud technologies get new research and "
+"development all time. I feel forward way with this\n"
+"\n"
+"My favorite programming language is Python. My favorite projects which "
+"them i work and contribute"
+msgstr ""
+"Мне нравится моя работа, потому что веб и облачные технологии постоянно "
+"развиваются. Я следую новым направлениям в этой области\n"
+"\n"
+"Мой любимый язык программирования — Python. Мои любимые проекты, над которыми "
+"я работаю и вношу свой вклад"
+
+#: content/pages/index.md:14
+msgid ""
+"My favorite  operation system is Ubuntu but i can work with every linux "
+"based distribution\n"
+"\n"
+"I love automate all things and devops approach. I worked with none "
+"kubernetes type orchestrator - mesos.\n"
+"\n"
+"Last time i get more experience with openstack and kubernetes\n"
+"\n"
+"I like speaking and I try to do my best with share my experience and "
+"knowledge on conferences, meatups, and study programs (see [publications]"
+msgstr ""
+"Моя любимая операционная система — Ubuntu, но я могу работать с любой "
+"дистрибутивом Linux\n"
+"\n"
+"Мне нравится автоматизация всего и подход DevOps. Работал с оркестратором типа "
+"kubernetes — mesos.\n"
+"\n"
+"В последнее время получил больше опыта с openstack и kubernetes\n"
+"\n"
+"Мне нравится выступать с докладами и я стараюсь делиться своим опытом и "
+"знаниями на конференциях, митапах и образовательных программах (см. "
+"[публикации])"
+
+#: content/pages/index.md:22
+msgid ""
+"Hobbies:\n"
+"\n"
+"I love board and PC games. My favorite genre is strategy.\n"
+"\n"
+"I study to paint and dream create comics "
+msgstr ""
+"Хобби:\n"
+"\n"
+"Я люблю настольные и компьютерные игры. Мой любимый жанр — стратегии.\n"
+"\n"
+"Учу рисовать и мечтаю создать комиксы"
+
+#: content/pages/myway.md:1
+msgid "My experience"
+msgstr "Мой опыт"
+
+#: content/pages/myway.md:3
+msgid "Hired work"
+msgstr "Работа по найму"
+
+#: content/pages/myway.md:7
+msgid "now"
+msgstr "сейчас"
+
+#: content/pages/myway.md:7
+msgid ""
+"Administrate orchestrator for applications, IaC, CI/CD, Automate develop "
+"process. Write automation tools"
+msgstr ""
+"Администрирование оркестратора приложений, IaC, CI/CD, автоматизация процесса "
+"разработки. Написание инструментов автоматизации"
+
+#: content/pages/myway.md:8
+msgid ""
+"IaC, CI/CD, Automate develop process. Build public images. Automate "
+"releases for private cloud installation. Write automation tools"
+msgstr ""
+"IaC, CI/CD, автоматизация процесса разработки. Создание публичных образов. "
+"Автоматизация выпусков для установки частного облака. Написание инструментов "
+"автоматизации"
+
+#: content/pages/myway.md:9
+msgid "Alfabank"
+msgstr "Альфабанк"
+
+#: content/pages/myway.md:9
+msgid "Database adminitrator"
+msgstr "Администратор баз данных"
+
+#: content/pages/myway.md:9
+msgid ""
+"Administrate databases<br />IaC, CI/CD, Automate develop process. Designe"
+" and deploy an orchestrator for applications"
+msgstr ""
+"Администрирование баз данных<br />IaC, CI/CD, автоматизация процесса "
+"разработки. Проектирование и развёртывание оркестратора приложений"
+
+#: content/pages/myway.md:10
+msgid "Rostelecom"
+msgstr "Ростелеком"
+
+#: content/pages/myway.md:10
+msgid ""
+"<br />Network Engineer<br />Automation Engineer<br />Linux Administrator "
+"| Administrate and automate services for network engineers and users"
+msgstr ""
+"<br />Инженер сети<br />Инженер автоматизации<br />Администратор Linux | "
+"Администрирование и автоматизация сервисов для инженеров и пользователей "
+"сетей"
+
+#: content/pages/myway.md:12
+msgid "Skills"
+msgstr "Навыки"
+
+#: content/pages/public.md:1
+msgid "Publications"
+msgstr "Публикации"
+
+#: content/pages/public.md:3
+msgid "Testing infrastructure on python meetup"
+msgstr "Тестирование инфраструктуры на python-митапе"
+
+#: content/pages/public.md:7
+msgid "Webinars about VK Cloud"
+msgstr "Вебинары о VK Cloud"
