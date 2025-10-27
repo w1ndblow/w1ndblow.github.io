@@ -1,10 +1,10 @@
-Title: Publications
+Title: {% trans %}Publications{% endtrans %}
 
-Testing infrastructure on python meetup
+{% trans %}Testing infrastructure on python meetup{% endtrans %}
 
 https://www.youtube.com/watch?v=Ayntu8IhHm0
 
-Webinars about VK Cloud
+{% trans %}Webinars about VK Cloud{% endtrans %}
 
 https://vkvideo.ru/video-164978780_456239213
 
