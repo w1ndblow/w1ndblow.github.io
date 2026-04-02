@@ -24,3 +24,5 @@ Hobbies:
 I love board and PC games. My favorite genre is strategy.
 
 I study to paint and dream create comics
+
+![Photo]({static}/images/my_photo.jpg)
