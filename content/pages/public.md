@@ -10,7 +10,7 @@ Title: Publications
 
 [Django on vkcoud managed k8s](https://vkvideo.ru/video-164978780_456239236)
 
-## Metacontroler on DUMP2026
+## Metacontroler on DUMP2025
 
 [Metacontroller](https://www.youtube.com/watch?v=QvDsikJZc5E&list=PLRdS-n5seLRpn14LaPejS_9rwzWGUs5cO)
 
